@@ -1,7 +1,7 @@
 // import React from 'react'
 import Navbar from "../component/Navbar"
 import '../App.css'
-import imgcard from '../assets/piceee.jpg'
+// import imgcard from '../assets/piceee.jpg'
 import imgcard1 from '../assets/cs4.jpg'
 import imgcard2 from '../assets/cours3.jpg'
 
