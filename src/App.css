@@ -62,7 +62,7 @@ nav ul li a{
 .my-component{
   background-color: lightgray;
   /* margin:75%; */
-  width:75%;
+  width:80%;
   height:80%;
   /* margin-top:15%; */
   display:grid;
@@ -101,6 +101,7 @@ height:40%;
 
 .infos{
  display:flex;
+ margin-top:20%;
   
 }
 .infos ul{
@@ -140,6 +141,23 @@ color:#4C4C4D;
   border:none;
   font-family:poppins;
   border-radius: 10px;
+}
+.viewall{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:80%;
+}
+.viewallcours{
+  border:2px solid #33CCFF;
+  color:black;
+  width:20%;
+  height:50px;
+  background-color: white;
+  margin-top:80%;
+  margin-left:3%;
+  border-radius: 10px;
+  
 }
 
 
